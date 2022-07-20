@@ -10,6 +10,13 @@ const Navbar = () => {
               CALIBURN
             </a>
           </div>
+          <div className="flex items-center px-4">
+            <button>
+              <span></span>
+              <span></span>
+              <span></span>
+            </button>
+          </div>
         </div>
       </div>
     </header>
