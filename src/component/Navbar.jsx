@@ -11,7 +11,7 @@ const Navbar = () => {
             </a>
           </div>
           <div className="flex items-center px-4">
-            <button id="humberger" name="humberger" type="button">
+            <button id="humberger" name="humberger" type="button" className="block absolute right-4">
               <span></span>
               <span></span>
               <span></span>
