@@ -15,3 +15,7 @@ code {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.hambuger-line {
+  @apply w-[30px] h-[2px] my-2 block bg-dark;
+}
