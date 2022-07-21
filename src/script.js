@@ -1,5 +1,5 @@
-const hamburger = document.querySelector("#hamburger");
+const humberger = document.querySelector("#humberger");
 
-hamburger.addEventListener("click", function () {
-  hamburger.classList.toggle("hamburger-active");
+humberger.addEventListener("click", function () {
+  humberger.classList.toggle("humberger-active");
 });

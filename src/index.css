@@ -19,3 +19,7 @@ code {
 .humberger-line {
   @apply w-[30px] h-[2px] my-2 block bg-dark;
 }
+
+.humberger-active > span:nth-child(1) {
+  @apply origin-top-left rotate-45;
+}
